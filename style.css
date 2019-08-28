@@ -1,0 +1,31 @@
+body{
+
+    background-color: black;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: center;
+    
+}
+.center{
+    text-align: center;
+    color: white;
+}
+#h1{
+position: relative;
+top: 50px;
+color: yellow;
+font-size: 24px;
+}
+#h2{
+    position: relative;
+    top: 50px;
+    color: yellow;
+    font-size: 24px;
+    }
+ #h3{
+        position: relative;
+        top: 50px;
+        color: yellow;
+        font-size: 24px;
+        }
+        
