@@ -25,11 +25,11 @@ function mouseClicked() {
   x = true;
   if (x = true) {
     var frase = document.getElementById("h1");
-    frase.innerHTML = "Rock de integração do SI.";
+    frase.innerHTML = "ROCK DO SERGIO";
     var frase = document.getElementById("h2");
-    frase.innerHTML = "Republica: Vamo ET";
+    frase.innerHTML = "QUEM NÃO FOR TA EXPULSO";
     var frase = document.getElementById("h3");
-    frase.innerHTML = "22h";
+    frase.innerHTML = "VÁ DE FANTASIA";
   }
 }
 
